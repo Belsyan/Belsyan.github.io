@@ -1,4 +1,4 @@
 ---
-  layout: post
+  layout: single
   title: "1. Introduction"
 ---
